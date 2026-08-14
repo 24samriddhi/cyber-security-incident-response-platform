@@ -2,7 +2,6 @@
 
 An n8n-based automation platform that collects security alerts from multiple tools, classifies and prioritizes them using AI (Groq/Llama 3.3), routes them to the right team with an optional human-approval gate for critical incidents, logs everything to a centralized audit trail, and generates daily analytics reports.
 
-Built for [Hackathon Name] — Cyber Security track.
 
 ---
 
