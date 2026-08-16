@@ -7,7 +7,7 @@ An n8n-based automation platform that collects security alerts from multiple too
 
 ## 🎥 Demo
 
-📹 [Demo video link — add after recording] (5–10 min walkthrough)
+https://drive.google.com/file/d/1SLuIlq_ArzZGf8gFmqB_SCamzRmky0Of/view?usp=drive_link
 
 ---
 
